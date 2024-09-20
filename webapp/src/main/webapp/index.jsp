@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning at new channel new one </h1>
+    <h1>Registration App for DevOps Learning by Chirag Singhal PSID - 10747850 </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You, Happy Learning </h1>
+   <h1> Thank You, Sanjay Sir  </h1>
    <h1> See You Again </h1>
   
 </form>

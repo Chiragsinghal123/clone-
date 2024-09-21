@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Registration App for DevOps Learning by Chirag Singhal PSID - 10747850 </h1>
+    <h1>Registration App for DevOps Learning by Chirag PSID - 10747850 </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      

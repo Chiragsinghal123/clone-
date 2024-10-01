@@ -6,7 +6,7 @@ metadata:
      app: regapp
 
 spec:
-  replicas: 2 
+  replicas: 1
   selector:
     matchLabels:
       app: regapp
@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: regapp
-        image: ashfaque9x/regapp
+        image: 559050235518.dkr.ecr.us-east-1.amazonaws.com/image-1232323:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8080

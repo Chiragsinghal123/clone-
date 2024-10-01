@@ -86,4 +86,4 @@ jobs:
  
       run: |
  
-        kubectl rollout restart deployment/regapp
+        kubectl rollout restart deployment/regapp-deploy

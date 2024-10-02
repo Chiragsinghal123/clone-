@@ -24,5 +24,4 @@ jobs:
 
 
 
-	in s3 bucket > index.html select > actions > make public using acl > make public
-	s3 bucket>properties  static website hosting copy link paste in browser
+

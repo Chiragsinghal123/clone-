@@ -48,12 +48,12 @@ jobs:
         uses: aws-actions/amazon-ecs-render-task-definition@v1
         with:
           task-definition: reg-app-task-definition.json
-          container-name: chirag
+          container-name: comnew
           image: ${{ steps.build-image.outputs.image }}    
       - name: Deploy Amazon ECS task definition
         uses: aws-actions/amazon-ecs-deploy-task-definition@v1
         with:
           task-definition: ${{ steps.task-def.outputs.task-definition }}
-          service: service-1
-          cluster: newcluster6969
+          service: service-con
+          cluster: Company-cluster
           wait-for-service-stability: true
